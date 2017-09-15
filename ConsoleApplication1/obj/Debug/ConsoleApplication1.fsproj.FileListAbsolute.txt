@@ -1,0 +1,6 @@
+c:\Users\Lleutch\Workspace\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\Users\Lleutch\Workspace\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\Users\Lleutch\Workspace\ConsoleApplication1\ConsoleApplication1\bin\Debug\FSharp.Core.dll
+c:\Users\Lleutch\Workspace\ConsoleApplication1\ConsoleApplication1\bin\Debug\FSharp.Core.xml
+c:\Users\Lleutch\Workspace\ConsoleApplication1\ConsoleApplication1\bin\Debug\fr\FSharp.Core.resources.dll
+c:\Users\Lleutch\Workspace\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.fsprojResolveAssemblyReference.cache
